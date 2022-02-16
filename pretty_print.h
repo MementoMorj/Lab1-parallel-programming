@@ -1,0 +1,6 @@
+#ifndef PRETTY_PRINT_H_INCLUDED
+#define PRETTY_PRINT_H_INCLUDED
+
+void outputArr();
+
+#endif // PRETTY_PRINT_H_INCLUDED

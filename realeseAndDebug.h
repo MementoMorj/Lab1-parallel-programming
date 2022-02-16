@@ -1,0 +1,8 @@
+#ifndef REALESEANDDEBUG_H_INCLUDED
+#define REALESEANDDEBUG_H_INCLUDED
+
+void realese();
+void debug();
+
+
+#endif // REALESEANDDEBUG_H_INCLUDED
